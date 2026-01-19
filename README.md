@@ -1,4 +1,4 @@
-# Customer Segmentation Analysis: Online Retail II
+# Customer Segmentation Analysis: Online Retail I
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Library](https://img.shields.io/badge/Library-Pandas%20%7C%20Scikit--Learn%20%7C%20Seaborn-orange)
