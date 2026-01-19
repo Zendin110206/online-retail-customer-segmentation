@@ -7,13 +7,13 @@
 
 ## 📌 Project Overview
 
-This project focuses on analyzing the **Online Retail II dataset** to perform **Customer Segmentation** using the **RFM (Recency, Frequency, Monetary)** framework and **K-Means Clustering**.
+This project focuses on analyzing the **Online Retail I dataset** to perform **Customer Segmentation** using the **RFM (Recency, Frequency, Monetary)** framework and **K-Means Clustering**.
 
 The main goal of this repository is to document my journey in understanding the **end-to-end Data Science workflow**: from cleaning messy real-world retail data to deriving actionable business insights for marketing strategies.
 
 ## 💾 Dataset
 
-The dataset used in this analysis is the **Online Retail II** dataset.
+The dataset used in this analysis is the **Online Retail I** dataset.
 
 - **Source:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/502/online+retail+ii)
 - **Description:** Contains all transactions occurring for a UK-based and registered non-store online retail between 01/12/2009 and 09/12/2011.
